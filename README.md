@@ -1,10 +1,8 @@
-# DH110-Spring23
+# Article Sharing: DH110-Spring23
 
-## andrea robinson
+## andrea robinson, Spring DH 110 
 
-project title
-
-project description
+The goal of this mobile application is to connect generations through the media they consume; to inform, to enjoy. 
 
 assignment01
 
