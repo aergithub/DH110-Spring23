@@ -1,8 +1,8 @@
 # Article Sharing: DH110-Spring23
 
-## andrea robinson, Spring DH 110 
+## Andrea Robinson, Spring DH 110 
 
-The goal of this mobile application is to connect generations through the media they consume; to inform, to enjoy. 
+The goal of this mobile application is to connect generations through the media they consume; to inform, to share, to enjoy. 
 
 assignment01
 
