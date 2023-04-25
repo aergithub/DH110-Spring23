@@ -10,7 +10,7 @@ The demographics I aim to target are teenagers, middle-aged adults, and older ad
 
 **Research Methods**
 
-In order to gain a better understanding of what features and platforms were attractive for users and why in regards to media sharing, I conducted a contextual inquiry interview. The session was conducted in person and the audio file was recorded through Zoom. The interview was composed of 4 sections: background questions, activities to observe the participants’ behaviors in sharing media with current platforms available to them, post-activity questions, and a wrap-up question to get a sense of how the participant might imagine a similar platform to the one I hope to create. 
+In order to gain a better understanding of what features and platforms were attractive for users and why in regards to media sharing, I conducted a contextual inquiry interview. The session was conducted in person and the audio file was recorded through Zoom. The interview was composed of 4 sections: background questions, activities to observe the participants’ behaviors in sharing media with current platforms available to them, post-activity questions, and a wrap-up question to get a sense of how the participant might imagine a similar platform to the one I hope to create. The participant utilized their own personal cell phone to carry out the activities. 
 
 **Interview Audio File**
 
