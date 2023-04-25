@@ -22,7 +22,7 @@ Password: HC%e21ge
 
 Find the interview script outlined prior to the interview [here.](https://docs.google.com/document/d/1M7pVLvhmAVFWSwzEWLJ_eju9CAfKAxmNjqLwAdjMsqs/edit?usp=sharing) 
 
-Find the full transcript [here.](https://github.com/aergithub/DH110-Spring23/blob/15e84ba32a1237d4e433e6d547be4c7b5537965d/GMT20230425-015124_Recording.transcript%20(1).vtt.docx)
+Find the full transcript [here.](https://personalmicrosoftsoftware0-my.sharepoint.com/:w:/g/personal/arobinsonbruin_personalmicrosoftsoftware_ucla_edu/EdETO_j6RbNFo72TpiJFAA8BTQbRwgNQ9x5M392cT7YehA?e=9XhQL1)
 
 Find observation notes [here.](https://github.com/aergithub/DH110-Spring23/blob/a116c156c191de7cafc253798709423f59316349/Friends.pdf)
 
