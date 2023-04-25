@@ -24,7 +24,7 @@ Find the interview script outlined prior to the interview [here.](https://docs.g
 
 Find the full transcript [here.](https://github.com/aergithub/DH110-Spring23/blob/15e84ba32a1237d4e433e6d547be4c7b5537965d/GMT20230425-015124_Recording.transcript%20(1).vtt.docx)
 
-Find observation notes here. 
+Find observation notes [here.](https://github.com/aergithub/DH110-Spring23/blob/a116c156c191de7cafc253798709423f59316349/Friends.pdf)
 
 **Insights from the Interview**
 
