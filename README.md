@@ -36,4 +36,4 @@ She navigates to the app, which populates on her profile. She then navigates to 
 
 ## Brooklyn's Journey Map
 
-![A picture of Robert's journey map, going through initiation, frustration, solution, and goal]
+![A picture of Robert's journey map, going through initiation, frustration, solution, and goal](https://github.com/aergithub/DH110-Spring23/blob/bddcb99b1ea07db2a9793e689c8f5ff223b9d7af/Brooklyn%20-%20Journey%20Map%20(1).png)
