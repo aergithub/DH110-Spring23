@@ -26,7 +26,7 @@ Robert wants to share a recent article he read about the increased likelihood of
 
 ## Brooklyn's Empathy Map
 
-![A picture of Brooklyn's emote map, describing what he says, thinks, does, and feels.]
+![A picture of Brooklyn's emote map, describing what he says, thinks, does, and feels.](https://github.com/aergithub/DH110-Spring23/blob/5f8590ec6ff93f618422c3e782319d3c5f26e6e0/Brookyln%20-%20Emote.png) 
 
 ## Brooklyn's Scenario
 
