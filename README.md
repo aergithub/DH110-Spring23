@@ -19,3 +19,4 @@ Robert wants to share a recent article he read about the increased likelihood of
 
 ## Persona 2: Brooklyn - College student and aspiring writer
 
+![A picture of Brooklyn's emote map, describing what he says, thinks, does, and feels.]
