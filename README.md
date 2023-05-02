@@ -18,7 +18,7 @@ Robert is a father of 4 adult children and the grandfather of 7 children, the ol
 Robert wants to share a recent article he read about the increased likelihood of being employed with a livable wage when a student graduates college from a four-year university. He navigates to the app, whose landing page showcases his profile picture and an edit button, an “upload” button, a “friends” button, messaging center, and notification center at the bottom to indicate different landing pages, as well as a profile symbol in the top left corner and a help symbol in the top right corner. He then clicks on the “upload” button, in which a “paste link” pop-up shows up, with an area to submit the link of his article, an area that says “add comment,” and a “cancel” and “upload” button at the bottom of the pop-up. Because he wants to get the attention of his grandkids, he clicks “add comment,” which populates a larger area that indicates “200 characters or fewer. Tag friends using the ‘@’.” Using the @ sign and his grandchildren’s name, he tags them, and presses upload. 
 
 ## Robert's Journey Map
-![A picture of Robert's journey map, going through initiation, frustration, solution, and goal]
+![A picture of Robert's journey map, going through initiation, frustration, solution, and goal](https://github.com/aergithub/DH110-Spring23/blob/efb35c0b01895f931983e497ecd4239d627f61e7/Robert%20-%20Journey%20Map.png)
 
 ## Persona 2: Brooklyn - College student and aspiring writer
 
