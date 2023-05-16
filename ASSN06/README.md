@@ -4,14 +4,15 @@
 
 **Process:**
 
-**Typographic Variations**
+# **Typographic Variations**
 
-**Shape Variations**
+# **Shape Variations**
 
-**Color Scheme Variations**
+# **Color Scheme Variations**
+![Three color scheme variations of the app's wireframe](https://github.com/aergithub/DH110-Spring23/blob/52dc4c8df47e78e26f99d8748082dc7db3e2ff15/ASSN06/Screen%20Shot%202023-05-15%20at%209.49.01%20PM.png)
 
-**Impression Test**
+# **Impression Test**
 
-**Final Design Details:**
+# **Final Design Details:**
 
 **Changes:**
