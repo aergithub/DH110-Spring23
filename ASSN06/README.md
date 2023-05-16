@@ -22,6 +22,7 @@ See color contrast tests [here.](https://drive.google.com/drive/folders/1DNDnxLf
 ![Three wireframes with purple, blue, and orange color schemes](https://github.com/aergithub/DH110-Spring23/blob/52dc4c8df47e78e26f99d8748082dc7db3e2ff15/ASSN06/Screen%20Shot%202023-05-15%20at%209.49.01%20PM.png)
 
 # **Impression Test**
+Notes: I conducted an impression test with a participant who was not entirely familiar with the purpose of the app (I should have summarized the project description before the test). The three biggest things that stood out to me was creating a more square-like shape for the media sharing icons, changing the "upload" button to "upload media," and adding an "edit profile" button that's closely associated with the profile picture. See the impression test video [here.](https://drive.google.com/file/d/1WNkfmaz1cxZhfW3yuXeJILvqGMzKLgpx/view?usp=sharing)
 
 **Final Design Details:**
 
