@@ -24,6 +24,9 @@ See color contrast tests [here.](https://drive.google.com/drive/folders/1DNDnxLf
 # **Impression Test**
 
 **Final Design Details:**
+
+I wanted a simple wireframe to try and connect to the different generations & levels of technical expertise that users may be coming from. For the profile page, I wanted a large, visible button that would notify users where to upload their links/media. I knew a visible help and settings button in opposing corners would be simple and indicate their use. I know that I wanted to appeal to some option of customability for the profile, so I implemented a large profile picture for the user to view. Lastly, I added three navigational buttons: friends, add friends, and notifications. The "friends" button takes you to others' profiles, "add friends" is just as it seems: it allows you to add friends to be visible on the "friends" page which shows you others' profiles, and the notifications button allows you to be notified when someone tags you in their post. 
+
 Fonts: Buttons - Lexend Deca Bold size 22 font, Subheadings (size 14 font), Button titles (size 6 font) - Nunito, Captions/Body (size 8 font, mixed bold & regular) - Lexend
 
 Body Text Paragraph Spacing: 3
