@@ -1,4 +1,4 @@
-# DH110-Spring23
+# DH110-Spring23: Assignment 6
 
 **Project Description:** This current project seeks to simplify the process of content sharing between close friends, family, and associates of different generations. The goal of this project is to create a link and media sharing platform for close friends, family, and associates, cultivating connection by sharing the music, movies, and media you consume within a recent time period. In its design, the aim is to create a simplistic platform to share the media that interests you without the pressure to cater to a larger audience.
 
@@ -23,12 +23,19 @@ See color contrast tests [here.](https://drive.google.com/drive/folders/1DNDnxLf
 
 # **Impression Test**
 
-# **Final Design Details:**
+**Final Design Details:**
 Fonts: Buttons - Lexend Deca Bold size 22 font, Subheadings (size 14 font), Button titles (size 6 font) - Nunito, Captions/Body (size 8 font, mixed bold & regular) - Lexend
+
 Body Text Paragraph Spacing: 3
+
 Layout: Rows - 5, 70 pt margins, Columns - 2, 20 pt margins
+
 Navigation Button Sizing: 24 x 24
+
 Help & Settings Button Sizing: 35 x 35
+
 Color Scheme: #A4BDFF, #FAFBFF, #000000, #FFFFFF 
 
-**Changes:**
+![The final design of the profile wireframe](https://github.com/aergithub/DH110-Spring23/blob/694a4011460847c9e048697f21ccd188c1dbaba4/ASSN06/Screen%20Shot%202023-05-15%20at%2011.53.27%20PM.png)
+
+**Wireframe Changes:** I made sure to remove the profile button from the profile page, per the suggestion of the participant in the wireflow testing, and I also added titles to the navigational buttons as the participant was confused on what each button reflected. 
