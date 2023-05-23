@@ -11,9 +11,11 @@ Uploading a new media file to your profile, including adding a caption and taggi
 Searching for a “friend,” Avery Jonson, by navigating to the “friends” page and searching for their name.
 
 **Image One, Wireflow One**
-![A wireflow which supports uploading a new media file to your profile](
+![A wireflow which supports uploading a new media file to your profile](https://github.com/aergithub/DH110-Spring23/blob/196cce2f241deffbb075fbdcbf76941c6c8670d8/ASSN07/Screen%20Shot%202023-05-23%20at%207.15.13%20AM.png)
 
 **Image Two, Wireflow Two**
 ![A wireflow which supports searching a friend's page](
+
+*Note: Although I delienate two wireflows, both are attached to the same flow. I thought it might be better to illustrate use of the application.*
 
 Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
