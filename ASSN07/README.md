@@ -18,6 +18,6 @@ Searching for a “friend,” Avery Jonson, by navigating to the “friends” p
 
 ![A wireflow which supports searching a friend's page](https://github.com/aergithub/DH110-Spring23/blob/4f8141af1ad0c663b8bfb9acc6c3236f26b52f1f/ASSN07/Screen%20Shot%202023-05-23%20at%207.15.27%20AM.png)
 
-*Note: Although I delienate two wireflows, they are underneath the same interactive wireflow for Figma. I thought this might better illustrate the use of the application.*
+*Note: Although I delienate two wireflows, they are underneath the same interactive wireflow for Figma. I thought this might better illustrate the use of the application. I also did not add a pop-up notification that notifies the user that the media file is uploaded.*
 
 Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
