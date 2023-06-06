@@ -14,7 +14,11 @@ Find the link to the heuristic evaluation here.
 Find the link to the usability test here. 
 
 ### User Research
-Summary of contextual inquiry and assignment 4. 
+The demographics I aim to target are teenagers, middle-aged adults, and older adults, all of whom are relatively experienced with social media platforms but not necessarily an expert. No particular type of expertise is required to interact with the platform. In order to gain a better understanding of what features and platforms were attractive for users and why in regards to media sharing, I conducted a contextual inquiry interview. The session was conducted in person and the audio file was recorded through Zoom. The interview was composed of 4 sections: background questions, activities to observe the participants’ behaviors in sharing media with current platforms available to them, post-activity questions, and a wrap-up question to get a sense of how the participant might imagine a similar platform to the one I hope to create. The participant utilized their own personal cell phone to carry out the activities.
+
+Conclusions of the contextual inquiry were that the aesthetics and features of the platform available to them when sharing the media played a large role in why they chose each platform. This was in addition to the reach of each platform- some media the participant hoped to reach many individuals, some the participant hoped would only circulate within the curated community on the platform. Something of note was that they hoped to share their media with those with common interests within their generation, but that their media consumption was largely influenced by their family of different generations, and that they did share media with their family regularly.
+
+I then 
 
 ### UX Storytelling
 Summary and link to assignment 5, persona + scenario
