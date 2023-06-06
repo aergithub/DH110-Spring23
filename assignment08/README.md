@@ -47,7 +47,7 @@ Searching for a “friend,” Avery Jonson, by navigating to the “friends” p
 Find the first draft of the interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ### Evaluation & Revision History
-**Cognitive Walkthrough:** We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. 
+**Cognitive Walkthrough:** We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. That being said, the perceived purpose of the app by the reviewers stood true to its actual purpose, ie, to share media, news sources, and magazine articles. The screens and interaction points were defined as "clear," and the only commentary outside of the failed interactions were that the profile should be in the menu. See **Revision History** for an update on that front. 
 
 **Impression Test:** I conducted an impression test with a participant who was not entirely familiar with the purpose of the app (I should have summarized the project description before the test). The three biggest things that stood out to me was creating a more square-like shape for the media sharing icons, changing the "upload" button to "upload media," and adding an "edit profile" button that's closely associated with the profile picture. See the impression test video [here.](https://drive.google.com/file/d/1WNkfmaz1cxZhfW3yuXeJILvqGMzKLgpx/view?usp=sharing)
 
@@ -59,9 +59,9 @@ Find the first draft of the interactive prototype [here.](https://www.figma.com/
 
 Find the second draft of the interactive prototype [here.](https://www.figma.com/file/l8EXhOCyP5XMSyUqb6mJMc/Prototype-%232?type=design&t=zOkhkOIQkPZ1EDMq-6) Note that I added a profile button on the navigation menu, better integrated Figma prototype features so that the wireflow and backflow all functioned well, and better integrated variants to create a more dynamic prototype. 
 
-I conducted a usability test on the second high-fidelity prototype to assess the ease, or lack thereof, in navigating the application and utilizing the application's features. I utilized the earlier script from the usability test on GetPocket.com and made revisions in accordance to the features and tasks of the application. You can find the script I utilized [here](https://docs.google.com/forms/d/e/1FAIpQLScuvy89tlUjCWO07aEQooQUfNNabEeQNPUQgLrct9XS3dsLXg/viewform?usp=sharing), the notes from the test here, although I note that the five descriptors of the application chosen in the usability test (calm, creative, familiar, old, and professional) as well as a reference to the "simplicity" of the application stood out tmost to me. 
+I conducted a usability test on the second high-fidelity prototype to assess the ease, or lack thereof, in navigating the application and utilizing the application's features. I utilized the earlier script from the usability test on GetPocket.com and made revisions in accordance to the features and tasks of the application. You can find the script I utilized [here](https://docs.google.com/forms/d/e/1FAIpQLScuvy89tlUjCWO07aEQooQUfNNabEeQNPUQgLrct9XS3dsLXg/viewform?usp=sharing), the notes from the test here, although I note that the five descriptors of the application chosen in the usability test (calm, creative, familiar, old, and professional) as well as a reference to the "simplicity" of the application stood out most to me. Find the usbaility test video [here](https://drive.google.com/file/d/1sXfmOonWjoRIPdrOil9mix_1eykGdWLW/view?usp=sharing) and notes from the test [here.](https://drive.google.com/file/d/1N1hkmXQtJrUknAk1Davm7upQ3EF55Ngb/view?usp=sharing)
 
-!!! **Link zoom video & audio transcript for UT #1** !!!
+!!! **Link audio transcript for UT #1** !!!
 
 **Revision History: High Fidelity Prototype #3**
 
