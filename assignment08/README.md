@@ -36,7 +36,7 @@ See the finalized low-fidelity prototype [here.](https://drive.google.com/file/d
 ### High-fidelity Prototype 
 The purpose of this prototype is to visualize the user navigational process through a series of two tasks. I first created the design based on the previous assignment to polish the interface design system, and added small updates based on the feedback I received from both the user participant and the professor when they reviewed the design system. I then create a wireflow based on my low fidelity prototype, which had used usage scenarios to illustrate how a user might interact with the application.
 
-The prototype supports the following tasks: 
+**The prototype supports the following tasks:** 
 
 Uploading a new media file to your profile, including adding a caption and tagging a “friend” on the post.
 
