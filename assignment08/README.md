@@ -18,7 +18,7 @@ The demographics I aim to target are teenagers, middle-aged adults, and older ad
 
 Conclusions of the contextual inquiry were that the aesthetics and features of the platform available to them when sharing the media played a large role in why they chose each platform. This was in addition to the reach of each platform- some media the participant hoped to reach many individuals, some the participant hoped would only circulate within the curated community on the platform. Something of note was that they hoped to share their media with those with common interests within their generation, but that their media consumption was largely influenced by their family of different generations, and that they did share media with their family regularly.
 
-I then 
+I then conducted User Storytelling, to design from the user's perspective, creating functionality that centers the desires and needs of the intended audience. The two personas I created are Robert [] and [], one, a [insert bios]. 
 
 ### UX Storytelling
 Summary and link to assignment 5, persona + scenario
