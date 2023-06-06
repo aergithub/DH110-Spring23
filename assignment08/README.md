@@ -56,14 +56,14 @@ Find the first draft of the interactive prototype [here.](https://www.figma.com/
 **Accessibility Audit:** I had initially conducted a [color contrast test](https://drive.google.com/drive/folders/1DNDnxLfXpPPsnveFG_WpJacn610cPEbG?usp=sharing) with the three color scheme variations in the graphic design element process. Upon review, each element was not fully reviewed to pass the color contrast test, so I've conducted another where you can find the results here **Link!!**
 
 **Revision History: High Fidelity Prototype #2**
+
 Find the second draft of the interactive prototype [here.](https://www.figma.com/file/l8EXhOCyP5XMSyUqb6mJMc/Prototype-%232?type=design&t=zOkhkOIQkPZ1EDMq-6) Note that I added a profile button on the navigation menu, better integrated Figma prototype features so that the wireflow and backflow all functioned well, and better integrated variants to create a more dynamic prototype. 
 
 I conducted a usability test on the second high-fidelity prototype to assess the ease, or lack thereof, in navigating the application and utilizing the application's features. I utilized the earlier script from the usability test on GetPocket.com and made revisions in accordance to the features and tasks of the application. You can find the script I utilized [here](https://docs.google.com/forms/d/e/1FAIpQLScuvy89tlUjCWO07aEQooQUfNNabEeQNPUQgLrct9XS3dsLXg/viewform?usp=sharing), the notes from the test here, although I note that the five descriptors of the application chosen in the usability test (calm, creative, familiar, old, and professional) as well as a reference to the "simplicity" of the application stood out tmost to me. 
 
-**Link zoom video & audio transcript for UT #1**
+!!! **Link zoom video & audio transcript for UT #1** !!!
 
 **Revision History: High Fidelity Prototype #3**
-
 
 ### Pitch Video 
 
