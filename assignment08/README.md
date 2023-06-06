@@ -44,7 +44,7 @@ Uploading a new media file to your profile, including adding a caption and taggi
 
 Searching for a “friend,” Avery Jonson, by navigating to the “friends” page and searching for their name. 
 
-Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
+Find the first draft of the interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ### Evaluation & Revision History
 **Cognitive Walkthrough:** We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. 
@@ -55,9 +55,15 @@ Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxp
 
 **Accessibility Audit:** I had initially conducted a [color contrast test](https://drive.google.com/drive/folders/1DNDnxLfXpPPsnveFG_WpJacn610cPEbG?usp=sharing) with the three color scheme variations in the graphic design element process. Upon review, each element was not fully reviewed to pass the color contrast test, so I've conducted another where you can find the results here **Link!!**
 
-**Usability Testing:**
+**Revision History: High Fidelity Prototype #2**
+Find the second draft of the interactive prototype [here.](https://www.figma.com/file/l8EXhOCyP5XMSyUqb6mJMc/Prototype-%232?type=design&t=zOkhkOIQkPZ1EDMq-6) Note that I added a profile button on the navigation menu, better integrated Figma prototype features so that the wireflow and backflow all functioned well, and better integrated variants to create a more dynamic prototype. 
 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+I conducted a usability test on the second high-fidelity prototype to assess the ease, or lack thereof, in navigating the application and utilizing the application's features. I utilized the earlier script from the usability test on GetPocket.com and made revisions in accordance to the features and tasks of the application. You can find the script I utilized [here](https://docs.google.com/forms/d/e/1FAIpQLScuvy89tlUjCWO07aEQooQUfNNabEeQNPUQgLrct9XS3dsLXg/viewform?usp=sharing), the notes from the test here, although I note that the five descriptors of the application chosen in the usability test (calm, creative, familiar, old, and professional) as well as a reference to the "simplicity" of the application stood out tmost to me. 
+
+**Link zoom video & audio transcript for UT #1**
+
+**Revision History: High Fidelity Prototype #3**
+
 
 ### Pitch Video 
 
