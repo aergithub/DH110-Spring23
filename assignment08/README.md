@@ -10,7 +10,7 @@ Since its inception, the project was designed to simplify the process of media s
 ### Competitor Analysis
 To analyze competing platforms, I conducted a heuristic evaluation of two websites designed for information storing and sharing. I also conducted a usability test of the application GetPocket.com, to assess the difficulty, or lack thereof, in utilizing the website’s features. I had the participant go through the process of engaging of each feature I found that stood out during the heuristics evaluation. The first was the “favorite” feature, unavailable from the discover page, preventing user control and freedom. The second was the “tagging” feature and referring back to those categories, of which you cannot view from the saves page, preventing visibility of system status. The last was the “recommendation” feature, which offered no insight as to where the recommendation went, and therefore there was no match to the real world.
 
-Find the link to the heuristic evaluation here.
+Find the link to the heuristic evaluation [here.](https://github.com/aergithub/HeuristicsEvaluationDH110)
 Find the link to the usability test [here.](https://github.com/aergithub/DH110-Spring23/tree/c2ab7ab4ed2f717508577db3a105d715d5f86720/ASSN02) 
 
 ### User Research
