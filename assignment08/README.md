@@ -24,6 +24,8 @@ I conducted user storytelling, with the purpose of designing from the user's per
 ### Wireframe and Graphic Design Element Variation
 Based on these scenarios, I mapped a [wireflow](https://www.figma.com/file/Yogf1YyDLIqEYcf9dMgQ6R/ASSN05?type=design&node-id=0%3A1&t=OY7XvxpH5STNHAah-1) on Figma taking the participant through the course of actions outlined in each persona's journey map. I then explored [design element variations](https://www.figma.com/file/6tEi4QGwIznQT5CKe7BiSr/ASSN06?type=design&t=OY7XvxpH5STNHAah-1) of color, symbol shape, and font to determine a finalied design for the application. 
 
+**Link final design photo!!!!!**
+
 ### Low-fidelity Prototype
 The low-fidelity prototype was created to test the functionality of the application's features and to determine how intuitive the features were to use. Target users value the option for customization, a simple interface to interact with, and the ability to share their media with individuals with common interests, like peers or family members. Based on these user personas, two tools were integrated into the mobile app: an upload feature with tagging to upload content to your profile for a select individual to review, and the second of which is a search bar to search your friend's profile to see their latest shared content. 
 
@@ -45,15 +47,15 @@ Searching for a “friend,” Avery Jonson, by navigating to the “friends” p
 Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ### Evaluation & Revision History
-Cognitive Walkthrough: We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. 
+**Cognitive Walkthrough:** We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. 
 
-Impression Test: I conducted an impression test with a participant who was not entirely familiar with the purpose of the app (I should have summarized the project description before the test). The three biggest things that stood out to me was creating a more square-like shape for the media sharing icons, changing the "upload" button to "upload media," and adding an "edit profile" button that's closely associated with the profile picture. See the impression test video [here.](https://drive.google.com/file/d/1WNkfmaz1cxZhfW3yuXeJILvqGMzKLgpx/view?usp=sharing)
+**Impression Test:** I conducted an impression test with a participant who was not entirely familiar with the purpose of the app (I should have summarized the project description before the test). The three biggest things that stood out to me was creating a more square-like shape for the media sharing icons, changing the "upload" button to "upload media," and adding an "edit profile" button that's closely associated with the profile picture. See the impression test video [here.](https://drive.google.com/file/d/1WNkfmaz1cxZhfW3yuXeJILvqGMzKLgpx/view?usp=sharing)
 
 *Note: I moved forward with creating a more square-like shape for the media sharing icons, but kept the "upload" button rather than "upload media" as well as the setting buttons in the top left-hand corner. Unlike more complex social media applications, there is little to customize for the "profile," beyond the picture and name, therefore all settings for the application fall underneath the settings tab and I do not think it necessary to associate it with the profile picture.*
 
-Accessibility Audit: 
+**Accessibility Audit:** I had initially conducted a [color contrast test](https://drive.google.com/drive/folders/1DNDnxLfXpPPsnveFG_WpJacn610cPEbG?usp=sharing) with the three color scheme variations in the graphic design element process. Upon review, each element was not fully reviewed to pass the color contrast test, so I've conducted another where you can find the results here **Link!!**
 
-Usability Testing: 
+**Usability Testing:**
 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
