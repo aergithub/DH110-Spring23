@@ -24,7 +24,7 @@ I conducted user storytelling, with the purpose of designing from the user's per
 ### Wireframe and Graphic Design Element Variation
 Based on these scenarios, I mapped a [wireflow](https://www.figma.com/file/Yogf1YyDLIqEYcf9dMgQ6R/ASSN05?type=design&node-id=0%3A1&t=OY7XvxpH5STNHAah-1) on Figma taking the participant through the course of actions outlined in each persona's journey map. I then explored [design element variations](https://www.figma.com/file/6tEi4QGwIznQT5CKe7BiSr/ASSN06?type=design&t=OY7XvxpH5STNHAah-1) of color, symbol shape, and font to determine a finalied design for the application. 
 
-**Link final design photo!!!!!**
+![A frame of the then finalized design for the application](https://github.com/aergithub/DH110-Spring23/blob/a447dc05a524e07acdceec860d6104725f967eb7/assignment08/Screenshot%202023-06-06%204.32.26%20PM.png)
 
 ### Low-fidelity Prototype
 The low-fidelity prototype was created to test the functionality of the application's features and to determine how intuitive the features were to use. Target users value the option for customization, a simple interface to interact with, and the ability to share their media with individuals with common interests, like peers or family members. Based on these user personas, two tools were integrated into the mobile app: an upload feature with tagging to upload content to your profile for a select individual to review, and the second of which is a search bar to search your friend's profile to see their latest shared content. 
