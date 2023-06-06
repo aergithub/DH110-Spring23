@@ -34,13 +34,22 @@ See the second wireflow draft [here.](https://drive.google.com/file/d/192A_XEoBU
 See the finalized low-fidelity prototype [here.](https://drive.google.com/file/d/1OOlOYuNzb26-Fr_Wogrs1_X6Tf4M9zke/view?usp=sharing)
 
 ### High-fidelity Prototype 
-Functional/interactive prototype, asssignment 8
-Summary statement and link to or an embedded prototype
+The purpose of this prototype is to visualize the user navigational process through a series of two tasks. I first created the design based on the previous assignment to polish the interface design system, and added small updates based on the feedback I received from both the user participant and the professor when they reviewed the design system. I then create a wireflow based on my low fidelity prototype, which had used usage scenarios to illustrate how a user might interact with the application.
+
+The prototype supports the following tasks: 
+
+Uploading a new media file to your profile, including adding a caption and tagging a “friend” on the post.
+
+Searching for a “friend,” Avery Jonson, by navigating to the “friends” page and searching for their name. 
+
+Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ### Evaluation & Revision History
 Cognitive Walkthrough: 
+Impression Test: 
 Accessibility Audit:
 Usability Testing: 
+
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Pitch Video 
