@@ -45,9 +45,12 @@ Searching for a “friend,” Avery Jonson, by navigating to the “friends” p
 Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxpnTHcB0hJECQGKE/ASSN07?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 ### Evaluation & Revision History
-Cognitive Walkthrough: 
+Cognitive Walkthrough: We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. 
+
 Impression Test: 
+
 Accessibility Audit:
+
 Usability Testing: 
 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
