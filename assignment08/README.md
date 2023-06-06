@@ -47,7 +47,8 @@ Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxp
 ### Evaluation & Revision History
 Cognitive Walkthrough: We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. 
 
-Impression Test: From an impression test conducted with a participant of the low-fidelity prototype, we received feedback that it appeared the user could upload photos despite that not being a feature, a lack of button descriptions made it confusing for user navigation, and that there could be clarity on how profiles appeared on the "friends" page. 
+Impression Test: I conducted an impression test with a participant who was not entirely familiar with the purpose of the app (I should have summarized the project description before the test). The three biggest things that stood out to me was creating a more square-like shape for the media sharing icons, changing the "upload" button to "upload media," and adding an "edit profile" button that's closely associated with the profile picture. See the impression test video [here.](https://drive.google.com/file/d/1WNkfmaz1cxZhfW3yuXeJILvqGMzKLgpx/view?usp=sharing)
+*Note: I moved forward with creating a more square-like shape for the media sharing icons, but kept the "upload" button rather than "upload media" as well as ...
 
 Accessibility Audit: 
 
