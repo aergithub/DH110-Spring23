@@ -25,7 +25,13 @@ I conducted user storytelling, with the purpose of designing from the user's per
 Based on these scenarios, I mapped a [wireflow](https://www.figma.com/file/Yogf1YyDLIqEYcf9dMgQ6R/ASSN05?type=design&node-id=0%3A1&t=OY7XvxpH5STNHAah-1) on Figma taking the participant through the course of actions outlined in each persona's journey map. I then explored [design element variations](https://www.figma.com/file/6tEi4QGwIznQT5CKe7BiSr/ASSN06?type=design&t=OY7XvxpH5STNHAah-1) of color, symbol shape, and font to determine a finalied design for the application. 
 
 ### Low-fidelity Prototype
-The low-fidelity prototype was created to test the functionality of the application's features and to determine how intuitive the features were to use. Target users value the option for customization, a simple interface to interact with, and the ability to share their media with individuals with common interests, like peers or family members. Based on these user personas, two tools were integrated into the mobile app: an upload feature with tagging to upload content to your profile for a select individual to review, and the second of which is a search bar to search your friend's profile to see their latest shared content. See the documentation of the low-fidelity prototype [here.](https://github.com/aergithub/DH110-Spring23/tree/0119d5221015d15730dc92d6a5a9a215a4ba6878/ASSN04) 
+The low-fidelity prototype was created to test the functionality of the application's features and to determine how intuitive the features were to use. Target users value the option for customization, a simple interface to interact with, and the ability to share their media with individuals with common interests, like peers or family members. Based on these user personas, two tools were integrated into the mobile app: an upload feature with tagging to upload content to your profile for a select individual to review, and the second of which is a search bar to search your friend's profile to see their latest shared content. 
+
+See the first wireflow draft [here.](https://drive.google.com/file/d/1n85wjqCJr7wvFpuzomNu9eqsF9g_OKqH/view?usp=sharing) 
+
+See the second wireflow draft [here.](https://drive.google.com/file/d/192A_XEoBUL3vbIflHYoZmrIzfyPJja-7/view?usp=sharing)
+
+See the finalized low-fidelity prototype [here.](https://drive.google.com/file/d/1OOlOYuNzb26-Fr_Wogrs1_X6Tf4M9zke/view?usp=sharing)
 
 ### High-fidelity Prototype 
 Functional/interactive prototype, asssignment 8
