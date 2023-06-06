@@ -47,9 +47,9 @@ Find the full interactive prototype [here.](https://www.figma.com/proto/0FFnlaxp
 ### Evaluation & Revision History
 Cognitive Walkthrough: We conducted a cognitive walkthrough in-class to test the high fidelity prototype of the application. Unforetunately, I did not properly utilize platform features within Figma and my prototype failed from the aspect of its backflow. 
 
-Impression Test: 
+Impression Test: From an impression test conducted with a participant of the low-fidelity prototype, we received feedback that it appeared the user could upload photos despite that not being a feature, a lack of button descriptions made it confusing for user navigation, and that there could be clarity on how profiles appeared on the "friends" page. 
 
-Accessibility Audit:
+Accessibility Audit: 
 
 Usability Testing: 
 
