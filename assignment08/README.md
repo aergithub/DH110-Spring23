@@ -29,6 +29,8 @@ Conclusions of the contextual inquiry were that the aesthetics and features of t
 ### UX Storytelling
 I conducted user storytelling, with the purpose of designing from the user's perspective, creating functionality that centers the desires and needs of the intended audience. The two personas I created are Robert, a 68-year old criminal defense attorney who hopes to maintain a connection with his grandchildren, and Brooklyn, a 21-year old journalism student hoping to keep updated with family and friends. See the persona and user storytelling documentation [here.](https://github.com/aergithub/DH110-Spring23/blob/d47a00de57cdbe2a41595abfdff86f7626c67d0f/README.md) 
 
+![A picture of the persona of Robert, including demographics, a picture of him, goals and challenges, as well as what he's looking for in an application](https://github.com/aergithub/DH110-Spring23/blob/182b332378ab3bb9ac88a1ba9cf629f9880d2e26/Robert%20-%20Persona.png)
+
 ### Wireframe and Graphic Design Element Variation
 Based on these scenarios, I mapped a [wireflow](https://www.figma.com/file/Yogf1YyDLIqEYcf9dMgQ6R/ASSN05?type=design&node-id=0%3A1&t=OY7XvxpH5STNHAah-1) on Figma taking the participant through the course of actions outlined in each persona's journey map. I then explored [design element variations](https://www.figma.com/file/6tEi4QGwIznQT5CKe7BiSr/ASSN06?type=design&t=OY7XvxpH5STNHAah-1) of color, symbol shape, and font to determine a finalied design for the application. 
 
