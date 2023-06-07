@@ -78,11 +78,7 @@ The third and final version of the high fidelity prototype is below. Note I adde
 
 ### Pitch Video
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="[https://www.youtube.com/embed/IboyHfL2jno](https://youtu.be/kqx8c1sM-PA)" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line →>
+<iframe src="https://youtu.be/kqx8c1sM-PA" width="640" height="480"></iframe>
 
 ### Conclusion
 Overall, this was a long and arduous process that I would gladly do over in the event in which I had a website or mobile application idea I truly believed brought something new to the conglomeration of websites and applications currently available to consumers. What remained apparent throughout the process is that I had to be firm in the purpose of the mobile application, as user research, persona creation and user storytelling, can and would change the features implemented within the website or application. A clear direction in your design is critical to being a good UX designer, and a continual cycle through the design process is necessary throughout the entire process.
