@@ -73,7 +73,10 @@ I conducted a usability test on the second high-fidelity prototype to assess the
 
 **Revision History: High Fidelity Prototype #3**
 
-### Pitch Video 
+The third and final version of the high fidelity prototype is below. Note I added a feature in the "upload" overlay to add a GIF or add your own photo to populate in the preview, although they are not currently functional features on the prototype. 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYFrjQPZx11ryJERkgak84u%2FPrototype-%25233%3Ftype%3Ddesign%26node-id%3D1-2%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A2" allowfullscreen></iframe>
+
+### Pitch Video
 
 ### Conclusion
-What did you learn throughout the process?
+Overall, this was a long and arduous process that I would gladly do over in the event in which I had a website or mobile application idea I truly believed brought something new to the conglomeration of websites and applications currently available to consumers. What remained apparent throughout the process is that I had to be firm in the purpose of the mobile application, as user research, persona creation and user storytelling, can and would change the features implemented within the website or application. A clear direction in your design is critical to being a good UX designer, and a continual cycle through the design process is critical throughout the process.
