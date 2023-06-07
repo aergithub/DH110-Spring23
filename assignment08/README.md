@@ -61,7 +61,7 @@ Find the first draft of the interactive prototype [here.](https://www.figma.com/
 
 *Note: I moved forward with creating a more square-like shape for the media sharing icons, but kept the "upload" button rather than "upload media" as well as the setting buttons in the top left-hand corner. Unlike more complex social media applications, there is little to customize for the "profile," beyond the picture and name, therefore all settings for the application fall underneath the settings tab and I do not think it necessary to associate it with the profile picture.*
 
-**Accessibility Audit:** I had initially conducted a [color contrast test](https://drive.google.com/drive/folders/1DNDnxLfXpPPsnveFG_WpJacn610cPEbG?usp=sharing) with the three color scheme variations in the graphic design element process. Upon review, each element was not fully reviewed to pass the color contrast test, so I've conducted another where you can find the results here **Link!!**
+**Accessibility Audit:** I had initially conducted a [color contrast test](https://drive.google.com/drive/folders/1DNDnxLfXpPPsnveFG_WpJacn610cPEbG?usp=sharing) with the three color scheme variations in the graphic design element process. Upon review, each element was not fully reviewed to pass the color contrast test, so I've conducted another where you can find the results [here.](https://drive.google.com/drive/folders/1auqQohkINi-RxYF-Bz-wYQuN-2cuNSMh?usp=sharing)
 
 **Revision History: High Fidelity Prototype #2**
 
